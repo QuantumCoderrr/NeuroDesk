@@ -13,12 +13,6 @@ A modern AI toolkit packed into a single Streamlit app — perform voice-control
 - 📰 Fake News Detection
 - 🖼 OCR (Image-to-Text)
 
-## 📸 Screenshots
-
-| Voice To-Do | Fake News Detector | PDF Summarizer | OCR Tool |
-|-------------|--------------------|----------------|----------|
-| ![Voice](screenshots/voice.gif) | ![News](screenshots/news.png) | ![PDF](screenshots/pdf.png) | ![OCR](screenshots/ocr.png) |
-
 ## 🛠 Installation (Local)
 
 ```bash
