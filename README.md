@@ -2,10 +2,6 @@
 
 A modern AI toolkit packed into a single Streamlit app — perform voice-controlled tasks, summarize PDFs, extract text from images, and detect fake news.
 
-## 🌐 Live Demo
-
-[Try NeuroDesk on Streamlit Cloud](https://quantumcoderrr-neurodesk.streamlit.app)
-
 ## ⚙️ Tools Inside
 
 - 🗣️ Voice-Controlled To-Do List *(local only)*
