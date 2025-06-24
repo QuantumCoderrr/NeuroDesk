@@ -10,7 +10,6 @@ A modern AI toolkit packed into a single Streamlit app — perform voice-control
 
 - 🗣️ Voice-Controlled To-Do List *(local only)*
 - 📄 PDF Summarizer
-- 📰 Fake News Detection
 - 🖼 OCR (Image-to-Text)
 
 ## 🛠 Installation (Local)
