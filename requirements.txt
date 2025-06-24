@@ -12,7 +12,6 @@ packaging==25.0
 pillow==11.2.1
 pipenv==2025.0.3
 platformdirs==4.3.8
-PyAudio==0.2.14
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 pytz==2025.2
