@@ -1,0 +1,41 @@
+# 🧠 NeuroDesk
+
+A modern AI toolkit packed into a single Streamlit app — perform voice-controlled tasks, summarize PDFs, extract text from images, and detect fake news.
+
+## 🌐 Live Demo
+
+[Try NeuroDesk on Streamlit Cloud](https://quantumcoderrr-neurodesk.streamlit.app)
+
+## ⚙️ Tools Inside
+
+- 🗣️ Voice-Controlled To-Do List *(local only)*
+- 📄 PDF Summarizer
+- 📰 Fake News Detection
+- 🖼 OCR (Image-to-Text)
+
+## 📸 Screenshots
+
+| Voice To-Do | Fake News Detector | PDF Summarizer | OCR Tool |
+|-------------|--------------------|----------------|----------|
+| ![Voice](screenshots/voice.gif) | ![News](screenshots/news.png) | ![PDF](screenshots/pdf.png) | ![OCR](screenshots/ocr.png) |
+
+## 🛠 Installation (Local)
+
+```bash
+git clone git@github.com:QuantumCoderrr/NeuroDesk.git
+cd NeuroDesk
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 🤝 Contributing
+
+We welcome contributions of all kinds — bug reports, feature requests, pull requests, and suggestions to improve NeuroDesk.
+
+To get started, please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to participate in this project.
+
+
+## 🛡 License
+
+This project is licensed under the MIT License.  
+See [LICENSE](LICENSE) for more information.
